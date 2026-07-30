@@ -1,0 +1,3 @@
+[submodule "xr_teleoperate"]
+	path = xr_teleoperate
+	url = https://github.com/unitreerobotics/xr_teleoperate.git
